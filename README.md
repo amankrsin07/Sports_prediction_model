@@ -1,3 +1,6 @@
+# u are allowed to copy this shittt...
+
+
 # Sports Prediction Website
 
 This project is a sports prediction website built using Django, designed to provide predictions for cricket matches using machine learning algorithms. The website features a professional look and feel, with a user-friendly interface for visitors to interact with.
